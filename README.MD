@@ -185,8 +185,9 @@ Feel free to fork the repo, open issues, or submit PRs.
 ## ✨ Author
 
 **Vihari Reddy**
-Cloud & DevOps Engineer aspirant – passionate about AWS, IaC, and scalable architectures.
+Cloud & DevOps Engineer – passionate about AWS, IaC, and scalable architectures.
 
 ---
+
 
 Happy Cloud and DevOps! ☁️🚀
